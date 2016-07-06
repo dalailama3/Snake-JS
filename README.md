@@ -2,7 +2,7 @@
 
 [Live](https://dalailama3.github.io/)
 
-This classic arcade game set at sea is written in JavaScript and HTML.  Event handlers are attached to the up, down, left, and right arrow keys to change the position of the snake within grid and the view is re-rendered every 120 ms.
+This classic arcade game set at sea is written in JavaScript and HTML.  Event handlers are attached to the up, down, left, and right arrow keys to change the position of the snake within the grid and the view is re-rendered every 120 ms.
 
 # Getting Started
 Click the link to play or follow these steps:
